@@ -45,7 +45,7 @@
 - Real-time updates & notifications  
 - Built with **React, Node.js, Supabase**
 
-👉 https://edunexusapp.vercel.app  
+👉 https://app.ingestlms.com.ng
 
 ---
 
