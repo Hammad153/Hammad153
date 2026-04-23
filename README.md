@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building scalable, real-world web applications</h3>
 
 <p align="center">
-  <a href="https://craftbyahmad.vercel.app/">Portfolio</a> •
+  <a href="https://www.craftbyahmad.me/">Portfolio</a> •
   <a href="https://linkedin.com/in/ismail-hammad-bb73152b9">LinkedIn</a> •
   <a href="https://github.com/Hammad153">GitHub</a>
 </p>
