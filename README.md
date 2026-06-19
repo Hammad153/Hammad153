@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Edunexus** – an EdTech platform  
+- 🔭 Currently building **IngestLMS** – an EdTech platform  
 - 🌱 Learning **DevOps, System Design, and AI integrations**  
 - 💡 Passionate about solving real-world problems with scalable systems  
 - 👨‍💻 4+ years building full-stack applications  
