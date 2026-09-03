@@ -40,7 +40,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Edunexus (EdTech Platform)
+### 🔹 IngestLMS (EdTech Platform)
 - Role-based system for students & instructors  
 - Real-time updates & notifications  
 - Built with **React, Node.js, Supabase**
